@@ -1,7 +1,12 @@
-# README
-
-## Opis projektu
-Repozytorium zawiera dokumentację projektu, informacje o jego strukturze oraz instrukcję korzystania.
+pr pr bum bum
+jadłem kebab
+lol
+joł
+ziuuum
+fruuu
+taaa
+git add README.md
+e
 
 ## Zawartość
 - Opis projektu
