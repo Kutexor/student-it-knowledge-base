@@ -1,4 +1,8 @@
-# README
+fdsfs
+dfssd
+fsdfs
+sdfsdfs
+sdfsdfsd
 
 ## Opis projektu
 Repozytorium zawiera dokumentację projektu, informacje o jego strukturze oraz instrukcję korzystania.
